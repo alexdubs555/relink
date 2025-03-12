@@ -1,3 +1,4 @@
 {
-  "url": "https://golazoplay.com/agenda.json"
+  "url": "https://golazoplay.com/agenda.json",
+  "imageBaseUrl": "https://img.golazoplay.com"
 }
